@@ -40,5 +40,5 @@ Planned to add these features to the repository:
 
 - Summary of set up get this repository by running the command below on your terminal
 ```
-$ git clone https://github.com/miraytopal/StudyTracker
+$ git clone https://github.com/miraytopal/StudyTracker-PyMySQL
 ```
