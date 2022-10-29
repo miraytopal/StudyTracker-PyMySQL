@@ -16,6 +16,11 @@ The system allows you to :
 - Analyze your study records by category, date or both
 - Delete your categories when you don't want to use them again (avoid allocating unnecessary memory)
 
+### Future Works :rocket: :
+Planned to add these features to the repository:
+- Deleting and editing study records
+- Option to add date information manually
+
 #### Prerequirenments :
 
 - PyMSQL
